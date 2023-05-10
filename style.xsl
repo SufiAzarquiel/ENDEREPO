@@ -153,7 +153,7 @@
 															</span>
 														</xsl:when>
 														<xsl:otherwise>
-															<span class="bg-warning rounded-circle p-2">
+															<span class="bg-primary rounded-circle p-2">
 																<xsl:value-of select="rating"/>
 															</span>
 														</xsl:otherwise>
